@@ -1,5 +1,5 @@
 env.DOCKER_REGISTRY = 'indradock'
-env.DOCKER_IMAGE_NAME = 'landingpage-app'
+env.DOCKER_IMAGE_NAME = 'landingpagestag-app'
 pipeline {
     agent any
 //   triggers {
